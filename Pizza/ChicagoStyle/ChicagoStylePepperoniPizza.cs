@@ -1,8 +1,8 @@
 ﻿namespace SimpleFactoryToAbstract
 {
-    internal class CaliforniaClamPizza : Pizza
+    internal class ChicagoStylePepperoniPizza : Pizza
     {
-        public CaliforniaClamPizza()
+        public ChicagoStylePepperoniPizza()
         {
             name = "Chicago Style Deep Dish Cheese Pizza";
             dough = "Extra Thick Crust Dough";

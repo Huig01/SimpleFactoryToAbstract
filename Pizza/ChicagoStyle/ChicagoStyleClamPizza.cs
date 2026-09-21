@@ -1,10 +1,10 @@
 ﻿namespace SimpleFactoryToAbstract
 {
-    internal class CaliforniaClamPizza : Pizza
+    internal class ChicagoStyleClamPizza : Pizza
     {
-        public CaliforniaClamPizza()
+        public ChicagoStyleClamPizza()
         {
-            name = "Chicago Style Deep Dish Cheese Pizza";
+            name = "Chicago Style Sauce and Clam Pizza";
             dough = "Extra Thick Crust Dough";
             sauce = "Plum Tomato Sauce";
             toppings.Add("Shredded Mozzarella Cheese");
