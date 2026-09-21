@@ -4,10 +4,10 @@
     {
         public ChicagoStyleVeggiePizza()
         {
-            name = "Chicago Style Deep Dish Cheese Pizza";
-            dough = "Extra Thick Crust Dough";
-            sauce = "Plum Tomato Sauce";
-            toppings.Add("Shredded Mozzarella Cheese");
+            name = "Chicago Style Veggie Pizza";
+            dough = "Extra thin cardboard";
+            sauce = "nothing";
+            toppings.Add("Grass");
         }
 
         internal override void Cut()

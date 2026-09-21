@@ -4,7 +4,7 @@
     {
         public CaliforniaClamPizza()
         {
-            name = "Chicago Style Deep Dish Cheese Pizza";
+            name = "Chicago Style Sauce and Clam Pizza";
             dough = "Extra Thick Crust Dough";
             sauce = "Plum Tomato Sauce";
             toppings.Add("Shredded Mozzarella Cheese");

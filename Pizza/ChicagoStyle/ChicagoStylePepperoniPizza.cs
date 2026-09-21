@@ -4,8 +4,8 @@
     {
         public ChicagoStylePepperoniPizza()
         {
-            name = "Chicago Style Deep Dish Cheese Pizza";
-            dough = "Extra Thick Crust Dough";
+            name = "Chicago Style Pepperoni Pizza";
+            dough = "Thick Crust Dough";
             sauce = "Plum Tomato Sauce";
             toppings.Add("Shredded Mozzarella Cheese");
         }
